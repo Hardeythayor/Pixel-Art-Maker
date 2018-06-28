@@ -27,7 +27,7 @@
      //makeGrid function   
         function makeGrid(row, col) { 
 			// loop for setting the gridHeight.
-            for (var x = 1; x <= row; x++){
+            for (let x = 1; x <= row; x++){
                 var tablez = $('#pixelCanvas');
                 tablez.append('<tr></tr>');    
             }

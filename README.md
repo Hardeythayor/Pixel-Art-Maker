@@ -6,4 +6,4 @@ Users can use the application to design a pixel art by the following steps
 - Select preferred color and apply it to anywhere of your choice in the grid and you start making great art
 
 Visit link below to start designing your pixel art 
-https://hardeythayor.github.io.
+https://hardeythayor.github.io

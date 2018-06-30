@@ -1,4 +1,3 @@
-
 // submit form
     $('form').submit(function(event){
         let pixelHeight = $('input#inputHeight').val();
@@ -37,4 +36,3 @@
                 $('tr').append('<td></td>');
             }
         }
-
